@@ -1,0 +1,84 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+/* Header Styles */
+header {
+  background: #0078d7;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+header nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+header nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+header nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Section Styles */
+section {
+  padding: 20px;
+  text-align: center;
+}
+
+/* Home Section */
+#home {
+  background: #0078d7;
+  color: #fff;
+  padding: 50px 20px;
+}
+
+/* About Us Section */
+#about {
+  background-color: #f4f4f4;
+  padding: 20px;
+  text-align: center;
+}
+
+#about p {
+  max-width: 800px;
+  margin: 10px auto;
+  line-height: 1.6;
+}
+
+/* Services Section */
+#services ul {
+  list-style: none;
+  padding: 0;
+}
+
+#services ul li {
+  margin: 10px 0;
+}
+
+/* Projects Section */
+#projects .project {
+  border: 1px solid #ddd;
+  margin: 20px auto;
+  padding: 15px;
+  width: 60%;
+  background-color: #fff;
+}
+
+/* Footer Styles */
+footer {
+  background: #333;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+}
