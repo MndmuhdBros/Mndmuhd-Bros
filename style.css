@@ -3,8 +3,8 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f8f9fa;
-  color: #333;
+  background-color: blue;
+  color: blue;
 }
 
 /* Header Styles */
@@ -45,7 +45,7 @@ section {
 
 /* About Us Section */
 #about {
-  background-color: #f4f4f4;
+  background-color: drak;
   padding: 20px;
   text-align: center;
 }
@@ -72,13 +72,13 @@ section {
   margin: 20px auto;
   padding: 15px;
   width: 60%;
-  background-color: #fff;
+  background-color: blue;
 }
 
 /* Footer Styles */
 footer {
-  background: #333;
-  color: #fff;
+  background: gray;
+  color: gray;
   padding: 10px 0;
   text-align: center;
 }
